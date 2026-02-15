@@ -1,0 +1,10 @@
+name="| welcom to calculater app |\n"
+print(name.title())
+num1=float(input("First Number: "))
+num2=float(input("Second Number: "))
+print("|-----------------------------------|\n")
+print("Adding+: "  +str(num1+num2))
+print("Subtract-:" +str(num1-num2))
+print("Mutiply*: " +str(num1*num2))
+print("Divide/: "  +str(num1/num2))
+print("modulu %: " +str(num1%num2))
